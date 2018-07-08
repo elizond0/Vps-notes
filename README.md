@@ -43,3 +43,5 @@ chmod +x bbr.sh
 ```
 
 * 1.7 使用SSR代理客户端连接，根据账号配置信息连接
+
+<!-- * 1.8 个人SSR账号二维码备份 : http://doub.pw/qr/qr.php?text=ssr://NjYuNDIuMzkuMTQ0Ojg5ODk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmNYZGxZWE5rZW5oak16SXg -->
