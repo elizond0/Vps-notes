@@ -44,4 +44,26 @@ chmod +x bbr.sh
 
 * 1.7 使用SSR代理客户端连接，根据账号配置信息连接
 
-<!-- * 1.8 个人SSR账号二维码备份 : http://doub.pw/qr/qr.php?text=ssr://NjYuNDIuMzkuMTQ0Ojg5ODk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmNYZGxZWE5rZW5oak16SXg -->
+* 1.8 个人SSR账号备份
+
+<!-- ```html
+ ShadowsocksR账号 配置信息：
+
+ I  P       : 66.42.39.144
+ 端口       : 8989
+ 密码       : qweasdzxc321
+ 加密       : aes-256-cfb
+ 协议       : origin
+ 混淆       : plain
+ 设备数限制 : 0(无限)
+ 单线程限速 : 0 KB/S
+ 端口总限速 : 0 KB/S
+ SS    链接 : ss://YWVzLTI1Ni1jZmI6cXdlYXNkenhjMzIxQDY2LjQyLjM5LjE0NDo4OTg5
+ SS  二维码 : http://doub.pw/qr/qr.php?text=ss://YWVzLTI1Ni1jZmI6cXdlYXNkenhjMzIxQDY2LjQyLjM5LjE0NDo4OTg5
+ SSR   链接 : ssr://NjYuNDIuMzkuMTQ0Ojg5ODk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmNYZGxZWE5rZW5oak16SXg
+ SSR 二维码 : http://doub.pw/qr/qr.php?text=ssr://NjYuNDIuMzkuMTQ0Ojg5ODk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmNYZGxZWE5rZW5oak16SXg
+
+  提示:
+ 在浏览器中，打开二维码链接，就可以看到二维码图片。
+ 协议和混淆后面的[ _compatible ]，指的是 兼容原版协议/混淆。
+``` -->
